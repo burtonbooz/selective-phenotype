@@ -10,15 +10,15 @@ var rightLegs;
 var mic;
 
 function preload() {
-  projection = loadImage('/selective-phenotype/assets/projection1.png');
-  rightWing = loadImage('/selective-phenotype/assets/wings.png');
-  leftWing = loadImage('/selective-phenotype/assets/wings-left.png');
-  legUpperright = loadImage('/selective-phenotype/assets/leg-upper-right.png');
-  legUpperleft = loadImage('/selective-phenotype/assets/leg-upper-left.png');
-  legMiddleright = loadImage('/selective-phenotype/assets/leg-middle-right.png');
-  legMiddleleft = loadImage('/selective-phenotype/assets/leg-middle-left.png');
-  legBottomright = loadImage('/selective-phenotype/assets/leg-bottom-right.png');
-  legBottomleft = loadImage('/selective-phenotype/assets/leg-bottom-left.png');
+  projection = loadImage('/assets/projection1.png');
+  rightWing = loadImage('/assets/wings.png');
+  leftWing = loadImage('/assets/wings-left.png');
+  legUpperright = loadImage('/assets/leg-upper-right.png');
+  legUpperleft = loadImage('/assets/leg-upper-left.png');
+  legMiddleright = loadImage('/assets/leg-middle-right.png');
+  legMiddleleft = loadImage('/assets/leg-middle-left.png');
+  legBottomright = loadImage('/assets/leg-bottom-right.png');
+  legBottomleft = loadImage('/assets/leg-bottom-left.png');
 }
 
 function setup() {
